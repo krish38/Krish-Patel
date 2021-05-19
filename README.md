@@ -1,4 +1,4 @@
-:wave: Hi, I'm Krish Patel, a software developer, with a passion for machine learning, and a mission to make a change in the world.
+<p align="center"> :wave: Hi, I'm Krish Patel, a software developer, with a passion for machine learning, and a mission to make a change in the world. </p>
 
 
 <p align="center"> <img src="https://www.techfunnel.com/wp-content/uploads/2020/12/machine-learning-vs-deep-learning.png"> </p>
