@@ -6,4 +6,4 @@
 
 I have done competitive programming, software development, and also networking, however, I am much more passionate about machine learning, and more specifically deep learning :brain: . My projects mainly involve Artifical Neural Networks (ANN) but I have also done work with Convolutional neural nets, genetic algorithms, and also language processing 🗣️ .
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krish38&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish38&layout=compact"></a></p>
